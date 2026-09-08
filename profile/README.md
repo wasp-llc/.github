@@ -1,0 +1,1 @@
+<p align="center"><img src="https://raw.githubusercontent.com/wasp-llc/.github/refs/heads/main/res/ino/banner/upscaled/wasp.png" alt="wasp"></p>
